@@ -1,0 +1,29 @@
+# Swift + Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.xcodeproj/project.xcworkspace/
+
+# SPM
+/.packages
+/Packages/
+/Package.resolved
+
+# macOS
+Icon?
+
+# Demo output
+*.mp4
+*.mov
+*.zip
+Storyboard.png
+win95ui_frames/
+
+# Other
+.idea/
+*.swp
+*.swo
+*.log
